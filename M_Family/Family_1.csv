@@ -1,0 +1,82 @@
+id,parentId,name,position,image
+100,,Family members,Chief Operating Officer,https://bumbeishvili.github.io/avatars/avatars/portrait12.png
+101,100,Chinna Chittabbai,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait85.png
+102,100,Aadhamma,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait16.png
+103,102,Jaganandham,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait17.png
+104,103,Aachayamma,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait18.png
+105,103,Nageswarao,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait19.png
+106,103,Mutyalamma,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait86.png
+107,103,Chitti babu,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait89.png
+108,101,W/o Mani,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png
+109,108,Daughter,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait20.png
+110,108,Balaji,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait21.png
+111,108,Daughter,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait22.png
+112,108,Narayana,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait23.png
+113,108,W/o  Pandu,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait1.png
+114,100,Daughter,Purchasing Manager,https://bumbeishvili.github.io/avatars/avatars/portrait24.png
+115,114,Mahalakshmi (simli),Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait26.png
+116,114,Husband,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait2.png
+117,114,Daughter,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait25.png
+118,114,Chinna Ramana,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait27.png
+119,114,Bhadrakali,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait3.png
+120,100,Jaganandham,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait28.png
+121,100,vinayak,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait33.png
+122,100,Mahalakshmi,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait31.png
+123,100,Husband,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait4.png
+124,100,Chinna Ratnam,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait39.png
+125,120,Venkatrao,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait5.png
+126,120,lavanya ,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait10.png
+127,120,Deelip,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait41.png
+128,120,Daughter,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait48.png
+129,121,Suramma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait11.png
+130,121,Gangaraju,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait50.png
+131,121,Bapanamma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait51.png
+132,121,Adinarayana,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait52.png
+133,122,Suryanarayanamma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait54.png
+134,122,Sowjanya,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait56.png
+135,122,Araind,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait13.png
+136,122,Veera venkata satyanarayana,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait6.png
+137,123,Lasya saranya,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait57.png
+138,123,Deshitha priya,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait58.png
+139,123,Ratnam,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait65.png
+140,123,Ramachandra rao,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait67.png
+141,124,Pallamma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait14.png
+142,124,Venkata Ramana,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait71.png
+143,124,Lakshmi Narayana Amma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait73.png
+144,124,Bala Chandra Chitti Babu,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait79.png
+145,100,Krishna Veni,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait81.png
+146,100,Nikil Sai ,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait15.png
+147,100,Teja Sri,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait82.png
+148,100,Venkata Padmavathi,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait83.png
+149,100,Srinivasarao,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait32.png
+150,145,Teja Swi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait84.png
+151,145,Veeradra Vijay,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait87.png
+152,145,Bobby,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait90.png
+153,145,Ratnam,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait91.png
+154,145,Rajarao ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait34.png
+155,145,Veera venkata satyanarayana,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait97.png
+156,146,Rajeswari,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait35.png
+157,146,Aruna,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait98.png
+158,146,Chatan Raj,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait99.png
+159,146,Sai babu,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait36.png
+160,146,Gayathri,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait37.png
+161,146,Dhanu Sri,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait38.png
+162,147,Surya Gangabhavani,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait40.png
+163,147,Rajeswari ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait7.png
+164,147,Satyanarayana,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait42.png
+165,147,Satya Gangavathi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait100.png
+166,147,Nagaraju,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait101.png
+167,147,Jaya Sri,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait102.png
+168,148,Nagendra Bhadrinadh,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait43.png
+169,148,Sowjanya Bharathi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait103.png
+170,148,Husband,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait104.png
+171,148,Ramu ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait105.png
+172,148,Surya Kumari,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait44.png
+173,148,Chiranjeevi Sai Manikanta,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait46.png
+174,149,Jyothsnavi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
+175,149,Murali Krishna,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
+176,149,Surya Gangabhavani,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait106.png
+177,149,Adinaga Pallavi ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait107.png
+178,149,Ramachandra Pavan Kumar,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait55.png
+179,149,Ganga Jalam,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait108.png
+180,120,satyam,Shipping Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
