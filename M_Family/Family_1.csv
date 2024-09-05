@@ -1,141 +1,82 @@
-id,parentId,relation,name,position,image
-1,,,Mani's Family,,
-2,138,Husband,Chinna Chittabbai,Guttikonda,
-3,138,Wife,Aadhamma,Guttikonda,
-4,2,Son,Jaganandham,Guttikonda,
-5,2,Daughter,Suramma,Guttikonda / Anandham,
-6,2,Son,Gangaraju,Guttikonda,
-7,2,Daughter,Ratnam,Guttikonda,
-8,2,Son,Ramachandra rao,Guttikonda,
-9,2,Daughter,Ganga Jalam,Guttikonda,
-10,4,Wife,Aachayamma,Guttikonda,
-11,10,Son,Nageswarao,Guttikonda,
-12,10,Son,Chinna Ramana,Guttikonda,
-13,10,Daughter,Chinna Ratnam,Guttikonda,
-14,11,Wife,Mutyalamma,Guttikonda / Venniti,
-15,14,Son,Chitti babu,Guttikonda,
-16,14,Son,Balaji,Guttikonda,
-17,14,Son,Narayana,Guttikonda,
-18,14,Daughter,Mahalakshmi (simli),Guttikonda,
-19,15,Wife,Mani,Guttikonda,
-20,19,Son,Nagesh,Guttikonda,
-21,19,Daughter,Uma prasnna,Guttikonda,
-22,16,Wife,Ganeswari,Guttikonda,
-23,22,Daughter,Srilekha,Guttikonda,
-24,22,Daughter,srija,Guttikonda,
-25,17,Wife,Pandu,Guttikonda,
-26,25,Tejasri,Daughter ,Guttikonda,
-28,18,Husband,Narayana,,
-29,28,Son,Aravind,,
-30,28,Daughter,Vishanavi,,
-31,12,Wife,Bhadrakali,Guttikonda / ,
-32,31,Son,Jaganandham,Guttikonda,
-33,31,Son,vinayak,Guttikonda,
-34,31,Daughter,Mahalakshmi,Guttikonda,
-35,32,Wife,wife,Guttikonda,
-36,33,Wife,wife,Guttikonda,
-37,34,Husband,Husband,,
-38,13,Husband,Venkatrao,Perusetti,
-39,38,Daughter,lavanya ,Perusetti / ,
-40,38,Son,Deelip,Perusetti,
-41,39,Daughter,Daughter,,
-42,6,Wife,Bapanamma,Guttikonda,
-43,42,Son,Adinarayana,Guttikonda,
-44,43,Wife,Suryanarayan amma,Guttikonda / kodati,
-45,44,Daughter,Sowjanya,Guttikonda / Bammidi,
-46,44,Son,Araind,Guttikonda,
-47,45,Husband,Veera venkata satyanarayana,Bammidi,
-48,47,Daughter,Lasya saranya,Bammidi,
-49,47,Daughter,Deshitha priya,Bammidi,
-50,8,Wife,Pallamma,Guttikonda,
-51,50,Son,Venkata Ramana,Guttikonda,
-52,50,Daughter,Ratnam,Guttikonda,
-53,50,Daughter,Rajeswari,Guttikonda,
-54,50,Son,Ramu ,Guttikonda,
-55,50,Son,Murali Krishna,Guttikonda,
-56,51,Wife,Lakshmi Narayana Amma,Guttikonda,
-57,56,Son,Bala Chandra Chitti Babu,Guttikonda,
-58,56,Daughter,Venkata Padmavathi,Guttikonda / Kolli,
-59,57,Wife,Krishna Veni,Guttikonda / Dirisina,
-60,59,Son,Nikil Sai ,Guttikonda,
-61,59,Daughter,Teja Sri,Guttikonda,
-62,58,Husband,Srinivasa rao,Kolli,
-63,62,Daughter,Teja Swi,Kolli / ,
-64,62,Son,Veeradra Vijay,Kolli,
-65,52,Husband,Rajarao ,Giduthuri,
-66,65,Son,Veera venkata satyanarayana,Giduthuri,
-67,65,Son,Sai babu,Giduthuri,
-68,65,Daughter,Surya Ganga bhavani,Giduthuri Married #55,
-69,66,Wife,Rajeswari,Giduthuri,
-70,69,Daughter,Aruna,Giduthuri,
-71,69,Son,Chatan Raj,Giduthuri,
-72,67,Wife,Gayathri,Giduthuri,
-73,72,Daughter,Dhanu Sri,Giduthuri,
-74,53,Husband,Eswara venkata satyanarayana,Bosukonda,
-75,74,Daughter,Satya Gangavathi,Bosukonda / Battula,
-76,74,Son,Nagendra Bhadrinadh,Bosukonda,
-77,74,Daughter,Sowjanya Bharathi,Bosukonda / Gajendrula,
-78,75,Husband,Nagaraju,Battula,
-79,78,Daughter,Naga Jaya sri,Battula,
-80,78,Son,Son ,Battula,
-81,77,Husband,Venkatesh,Gajendrula,
-82,81,Son,Divita chakria,Gajendrula,
-83,54,Wife,Surya Kumari,Guttikonda / Vinjamuri,
-84,83,Son,Chiranjeevi Sai Manikanta,Guttikonda,
-85,83,Daughter,Jyothsnavi,Guttikonda,
-86,55,Wife,Surya Ganga bhavani,Guttikonda / Giduthuri,
-87,86,Daughter,Adi Naga Pallavi ,Guttikonda,
-88,86,Son,Ramachandra Pavan Kumar,Guttikonda,
-89,9,Husband,satyam,Guttikonda,
-90,89,Son,Son ,Guttikonda,
-91,54,Amma,Family Details,,
-92,91,Father,Siva ShankaraRao,Vinjamuri,
-93,91,Mother,Nagaratnam,Vinjamuri /,
-94,92,Daughter,Vijayalakshmi,Vinjamuri / Guttikonda,
-95,92,Daughter,Parvathi,Vinjamuri / Nakka,
-96,92,Daughter,SuryaKumari,Vinjamuri / Guttikonda,
-97,92,Son,KoteswaraRao,Vinjamuri,
-98,92,Son,Venkataratnam,Vinjamuri,
-99,92,Son,Vijaya Bhaskar Narayana,Vinjamuri,
-100,94,Husband,Danayya,Guttikonda,
-101,100,Son,Satyanarayana,Guttikonda,
-102,100,Daughter,Chandrika,Guttikonda,
-103,101,Wife,Satya Devi,Guttikonda,
-104,103,Son,AbhiRam,Guttikonda,
-105,103,Son,Son ,Guttikonda,
-106,102,Husband,CH.Ramakrishna,,
-107,106,Son,Pandu,,
-108,95,Husband,Nageswarao,Nakka,
-109,108,Son,Rama Satyanarayana,Nakka,
-110,108,Son,Hemanth PavanKumar,Nakka,
-111,109,Wife,Veeravenkata Satya Sri,Nakka / Bandaru,
-112,111,Daughter,Jaishnavi,Nakka,
-113,96,Husband,Ramu ,Guttikonda,
-114,113,Son,Chiranjeevi Sai Manikanta,Guttikonda,
-115,113,Daughter,Jyothsnavi,Guttikonda,
-116,97,Wife,Radha Jaya Sri,Vinjamuri / Guttikonda,
-117,116,Daughter,Maha lakshmi naga Sailaja,Vinjamuri,
-118,116,Son,Pretam Ram Karthik,Vinjamuri,
-119,98,Wife,Lakshmi Sulochana,Vinjamuri / Vujjuru,
-120,109,Vadina,Family Details,,
-121,120,Father,RamMurthi,Bandaru,
-122,120,Mother,Lakshmi,Bandaru,
-123,121,Son,Ramu ,Bandaru,
-124,63,Husband,Sudharshan,,
-125,63,Family Details,Family Details,,
-126,125,Mother,Bhuvaneswari,,
-127,125,Father,Husband,,
-128,1,,Sobhanadri,Guttikonda,
-129,1,Wife,Wife,Guttikonda,
-130,128,Son,Jaganandham,,
-131,128,Wife,Wife,,
-132,130,Son,Erra Venkayya,,
-133,130,Wife,Wife,,
-134,132,Son,Markandeyulu,,
-135,132,Wife,Wife,,
-136,134,Son,Jaganandham,,
-137,134,Wife,Ankamma ,,
-138,136,Son,Erra Venkayya,,
-139,136,Wife,Venkamma,,
-140,20,Madhuri,Wife,,
-141,140,Cherri,Son ,,
+id,parentId,name,position,image
+100,,Family members,Chief Operating Officer,https://bumbeishvili.github.io/avatars/avatars/portrait12.png
+101,100,Chinna Chittabbai,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait85.png
+102,100,Aadhamma,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait16.png
+103,102,Jaganandham,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait17.png
+104,103,Aachayamma,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait18.png
+105,103,Nageswarao,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait19.png
+106,103,Mutyalamma,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait86.png
+107,103,Chitti babu,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait89.png
+108,101,W/o Mani,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png
+109,108,Daughter,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait20.png
+110,108,Balaji,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait21.png
+111,108,Daughter,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait22.png
+112,108,Narayana,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait23.png
+113,108,W/o  Pandu,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait1.png
+114,100,Daughter,Purchasing Manager,https://bumbeishvili.github.io/avatars/avatars/portrait24.png
+115,114,Mahalakshmi (simli),Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait26.png
+116,114,Husband,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait2.png
+117,114,Daughter,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait25.png
+118,114,Chinna Ramana,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait27.png
+119,114,Bhadrakali,Purchasing Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait3.png
+120,100,Jaganandham,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait28.png
+121,100,vinayak,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait33.png
+122,100,Mahalakshmi,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait31.png
+123,100,Husband,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait4.png
+124,100,Chinna Ratnam,Stock Manager,https://bumbeishvili.github.io/avatars/avatars/portrait39.png
+125,120,Venkatrao,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait5.png
+126,120,lavanya ,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait10.png
+127,120,Deelip,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait41.png
+128,120,Daughter,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait48.png
+129,121,Suramma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait11.png
+130,121,Gangaraju,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait50.png
+131,121,Bapanamma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait51.png
+132,121,Adinarayana,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait52.png
+133,122,Suryanarayanamma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait54.png
+134,122,Sowjanya,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait56.png
+135,122,Araind,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait13.png
+136,122,Veera venkata satyanarayana,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait6.png
+137,123,Lasya saranya,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait57.png
+138,123,Deshitha priya,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait58.png
+139,123,Ratnam,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait65.png
+140,123,Ramachandra rao,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait67.png
+141,124,Pallamma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait14.png
+142,124,Venkata Ramana,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait71.png
+143,124,Lakshmi Narayana Amma,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait73.png
+144,124,Bala Chandra Chitti Babu,Stock Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait79.png
+145,100,Krishna Veni,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait81.png
+146,100,Nikil Sai ,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait15.png
+147,100,Teja Sri,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait82.png
+148,100,Venkata Padmavathi,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait83.png
+149,100,Srinivasarao,Sales Manager,https://bumbeishvili.github.io/avatars/avatars/portrait32.png
+150,145,Teja Swi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait84.png
+151,145,Veeradra Vijay,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait87.png
+152,145,Bobby,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait90.png
+153,145,Ratnam,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait91.png
+154,145,Rajarao ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait34.png
+155,145,Veera venkata satyanarayana,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait97.png
+156,146,Rajeswari,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait35.png
+157,146,Aruna,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait98.png
+158,146,Chatan Raj,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait99.png
+159,146,Sai babu,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait36.png
+160,146,Gayathri,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait37.png
+161,146,Dhanu Sri,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait38.png
+162,147,Surya Gangabhavani,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait40.png
+163,147,Rajeswari ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait7.png
+164,147,Satyanarayana,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait42.png
+165,147,Satya Gangavathi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait100.png
+166,147,Nagaraju,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait101.png
+167,147,Jaya Sri,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait102.png
+168,148,Nagendra Bhadrinadh,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait43.png
+169,148,Sowjanya Bharathi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait103.png
+170,148,Husband,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait104.png
+171,148,Ramu ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait105.png
+172,148,Surya Kumari,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait44.png
+173,148,Chiranjeevi Sai Manikanta,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait46.png
+174,149,Jyothsnavi,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
+175,149,Murali Krishna,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
+176,149,Surya Gangabhavani,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait106.png
+177,149,Adinaga Pallavi ,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait107.png
+178,149,Ramachandra Pavan Kumar,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait55.png
+179,149,Ganga Jalam,Sales Representative,https://bumbeishvili.github.io/avatars/avatars/portrait108.png
+180,120,satyam,Shipping Clerk,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
